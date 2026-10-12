@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "React Native App",
+    "slug": "react-native-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.reactnativeapp"
+    },
+    "android": {
+      "package": "com.example.reactnativeapp"
+    }
+  }
+}
